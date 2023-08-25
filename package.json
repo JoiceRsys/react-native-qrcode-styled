@@ -91,7 +91,7 @@
     "react-native-svg": "*"
   },
   "engines": {
-    "node": ">= 16.0.0"
+    "node": ">= 14.9.1"
   },
   "packageManager": "^yarn@1.22.15",
   "jest": {
